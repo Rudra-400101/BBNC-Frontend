@@ -1,0 +1,24 @@
+1.PCB Printer Machine
+2.FILTER
+3.Jumper Wire Inserter Machine
+4.Universal AI Machine Parts
+5.Panasert AI Machine Parts
+6.Techwin AI Machine Parts
+7.Sciencego AI Machine Parts
+8.Solder Paste Height Measurement Machine
+9.SMT Component Vacuum Packing Machine
+10.Dust Particle Counting Machine
+11.SMT Reel Component Counting Machine
+12.Transistor Leg Cutting and Bending Machine
+13.Single Core Wire Cutting/Stripping & Twisting Machine
+14.Fully Automatic Single/Both Side Crimping Machine
+15.Fully Automatics Tinning Machine
+16.Rework Station
+17.Soldering Iron
+18.Soldering Gun
+19.SMT PCB Magazine Trolley
+20.SMT PCB Tray
+21.SMT Reel Component Rack
+22.Shoe Cover Dispenser
+23.Shoe Cover
+24.Manual Twisting Machine******

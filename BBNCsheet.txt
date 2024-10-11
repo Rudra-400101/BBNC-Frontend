@@ -1,0 +1,52 @@
+**** Auto-Insertion-Machine
+=>Axial Component Inserter Machine 
+=>Radial Component Machine 
+
+**** Pick and Place Machine
+=>Pick and Place Machine (SMT Machine) 
+=>Pick and Place Machine 
+=>Linking Conveyor/ Inspection Conveyor 
+=>Reflow 
+
+*** Spare
+Nozzle
+Feeder
+Grease
+
+**** PCB-Assembly-Equipment
+=>Solder Paste Mixture Machine 
+=>PCB Cutting Machine
+=>Dry Cabinet 
+=>Humidity Chamber 
+
+****Component-Forming-Machines
+=>Axial Component Cutting and Bending and Kinking Machine (Auto & Manual) 
+=>Radial Component Leg Cutting Machine 
+=>Axial Component Cutting and Bending & Kinking Machine 
+
+**** Wire Harness Machine
+=>Single Core Wire Cutting/Stripping Machine
+=>Multi-Core Wire Stripping Twisting Machine
+=>Manual Crimping Machine 
+=>Sleeve Cutting Machine
+
+****Soldering Equipment
+=>Soldering Station 
+=>Solder Station bit
+
+****ESD Consumable Items
+=>SMT PCB Magazine rack
+=>ESD Apron
+=>ESD Cap 
+=>ESD Wrist Bank (With Cord/Cordless)
+=>ESD Gloves
+=>Clean Room Wipes 
+=>Kapton Tape
+=>Tweezer
+
+****Other-Consumable
+=>SMT RED Glue
+=>Solder Paste 
+=>Peelable Mask
+=>SMT Splicing Tape 
+=>Stencil Roll 
